@@ -1,4 +1,4 @@
-- 👋 Hello, my name is Olivia-Jay
+# 👋 Hello, my name is Olivia-Jay
 - 👀 I’m interested in Data Analytics, Buisness Analytics, and creating interactive visualizations using Data 
 - 🌱 I’m currently learning Adanced SQL language on BigQueary
 - 💞️ I’m looking to collaborate on just about anything data related 
