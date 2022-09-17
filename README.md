@@ -1,9 +1,11 @@
-# 👋 Hello, my name is Olivia-Jay
-- 👀 I’m interested in Data Analytics, Buisness Analytics, and creating interactive visualizations using Data 
-- 🌱 I’m currently learning Adanced SQL language on BigQueary
-- 💞️ I’m looking to collaborate on just about anything data related 
+# Hello, My name is Olivia-Jay 👋 
+# I’m interested in 👀
+Data Analytics, Buisness Analytics, and creating interactive visualizations using Data 
+# I’m currently learning 🌱 
+Adanced SQL on BigQuery Sandbox
 
-💻 My Technical Skills Include: 
+
+# My Technical Skills 💻 
 
 - ✅ R, SQL, Microsoft Excel
 
@@ -11,7 +13,7 @@
 
 - ✅ Databases: R-Studio, BigQuery, Oracle SQL, MySQL
 
-💬 My General Skills Include:
+# My Soft/Hard Skills 
 
 - ✅ Hard: Multi-lingual (English, Spanish, Korean, French), Customer Service, Marketing, Database Management 
 
