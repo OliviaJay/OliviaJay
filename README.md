@@ -4,8 +4,6 @@ Data Analytics, Buisness Analytics, and creating interactive visualizations usin
 # I’m currently learning 🌱 
 Adanced SQL on BigQuery Sandbox
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="38a91af7-d6e8-4123-938f-1f97b3408076" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 # My Technical Skills 💻 
 
 - ✅ R, SQL, Microsoft Excel
