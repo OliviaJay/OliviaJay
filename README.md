@@ -1,6 +1,6 @@
 # Hello, My name is Olivia-Jay 👋 
 # I’m interested in 👀
-Data Analytics, Buisness Analytics, and creating interactive visualizations using Data 
+Data Analytics, Google Analytics, and generating insights for use in visualizations. 
 # I’m currently learning 🌱 
 Adanced SQL on BigQuery Sandbox
 
